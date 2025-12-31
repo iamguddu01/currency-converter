@@ -109,25 +109,5 @@ The API is free and doesn't require an API key.
 - `npm run preview` - Preview production build
 - `npm run lint` - Run ESLint
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check the [issues page](https://github.com/yourusername/currency-converter/issues).
-
 ## 👤 Author
-
-**Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-
-## 🙏 Acknowledgments
-
-- [Currency API](https://github.com/fawazahmed0/currency-api) for providing free currency exchange rates
-- [Pexels](https://www.pexels.com/) for the background image
-- React and Vite communities for excellent documentation
-
----
-
-⭐ If you found this project helpful, please consider giving it a star!
+- GitHub: [@iamguddu01](https://github.com/iamguddu01)
